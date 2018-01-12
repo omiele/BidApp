@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/icon1"
+        android:layout_width="80dip"
+        android:layout_height="80dip"
+        android:layout_margin="5dp">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/label1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="John Doe"
+        android:textColor="#13eaa2"
+        android:textSize="18sp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/icon1"
+        android:layout_toEndOf="@+id/icon1">
+    </TextView>
+
+
+</RelativeLayout>

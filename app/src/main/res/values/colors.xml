@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_blue" >#004646</color>
+    <color name="app_item" >#CCCCCC</color>
+    <color name="app_yellow" >#feac00</color>
+    <color name="app_dark_yellow" >#744F00</color>
+    <color name="app_darkest_yellow" >#3B2800</color>
+    <color name="app_darkest_blue" >#002424</color>
+    <color name="app_darkest_blue_translucent" >#ec002424</color>
+    <color name="app_white_translucent" >#d4ffffff</color>
+    <color name="app_lightest_blue" >#44F8F8</color>
+    <color name="app_lightest_blue_translucent" >#ec44F8F8</color>
+    <color name="app_yellow_translucent" >#8afeac00</color>
+    <color name="app_blue_bg_translucent" >#ec009898</color>
+    <color name="app_red" >#fb000d</color>
+    <color name="app_orange" >#fffb4900</color>
+    <color name="white" >#ffffff</color>
+    <color name="button_blue_1" >#002526</color>
+    <color name="button_blue_2" >#006464</color>
+    <color name="button_blue_stroke" >#007c7c</color>
+    <color name="button_focused_blue_1" >#002f2f</color>
+    <color name="button_focused_blue_2" >#00b2b2</color>
+    <color name="button_focused_blue_stroke" >#00adad</color>
+    <color name="button_pressed_blue_1" >#004345</color>
+    <color name="button_pressed_blue_2" >#00d5d5</color>
+    <color name="button_pressed_blue_stroke" >#00b9b9</color>
+    <color name="transparent_one">#00000000</color>
+    <color name="black">#00000000</color>
+    <color name="text_color">#13eaa2</color>
+</resources>
